@@ -3,7 +3,7 @@
 # $Header: $
 
 EAPI=5
-USE_RUBY="ruby22"
+USE_RUBY="ruby23 ruby24 ruby25"
 
 RUBY_FAKEGEM_TASK_DOC=""
 RUBY_FAKEGEM_TASK_TEST="spec"
